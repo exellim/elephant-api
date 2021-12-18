@@ -17,3 +17,19 @@ and copy and paste the dependencies needed from pubspec.yaml
 > http:  ^0.13.4
 
 > google_fonts:  ^2.1.0
+
+*This is what's supposed to be in your pubspec.yaml, although you may use different flutter SDK environment version
+
+This is the SDK version that i use:
+![SDK Version](https://github.com/exellim/elephant-api/blob/main/ss/4.png) 
+<br>
+<br>
+This is the dependencies that you have to use in order for the app to work:
+![Dependencies Needed](https://github.com/exellim/elephant-api/blob/main/ss/3.png) 
+
+
+
+
+## Screenshots
+![Home Screen](https://github.com/exellim/elephant-api/blob/main/ss/1.PNG)
+![Description Screen](https://github.com/exellim/elephant-api/blob/main/ss/2.png)
