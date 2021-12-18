@@ -1,16 +1,19 @@
 # ujianpraktikum
 
-A new Flutter project.
+This is a flutter code that i made for my Final Practical Training exam.
+The code is about getting value from an API and then sending the value to the app.
+
+which then make it able to operate and get all of it's value which then will be shown to the app.
+For the app to work, you'll need internet connection, since it's using an online API, not a local ones.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+create new flutter project,
+and then replace all the file inside your "lib" directory with mine.
+and copy and paste the dependencies needed from pubspec.yaml
 
-A few resources to get you started if this is your first Flutter project:
+*if you're too lazy to do that, here's the dependencies tha you'll need. Just copy and paste it into your pubspec.yaml under the "dependencies"
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> http:  ^0.13.4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> google_fonts:  ^2.1.0
